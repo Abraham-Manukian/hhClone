@@ -17,3 +17,4 @@ rootProject.name = "hhClone"
 include(":app")
 include(":domain")
 include(":data")
+include(":presentation")
