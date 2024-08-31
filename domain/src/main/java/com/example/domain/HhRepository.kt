@@ -1,5 +1,5 @@
 package com.example.domain
 
-interface Repository {
+interface HhRepository {
     suspend fun getAll() : Array<String>
 }
